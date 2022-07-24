@@ -17,3 +17,6 @@ there are 3 type of obstacle:
 player cannot crash with vans and rock but only crates. 
 
 
+Demo Vdo :  https://www.youtube.com/watch?v=z7TJ6q644_Y 
+
+
